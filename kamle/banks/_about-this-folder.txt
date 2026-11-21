@@ -1,0 +1,6 @@
+﻿Kamle Data Hub - banks
+Photos for BANKS_CSC > image_link.
+
+Rules: JPG or PNG photos under 1 MB, PDF under 2 MB. File names in lower case with hyphens, no spaces (e.g. raga-circuit-house.jpg).
+Never rename or delete a file the sheet uses. To replace a file, upload the new one with the SAME name.
+Everything here is PUBLIC: only blank forms, photos and brochures meant for citizens. Never filled forms or personal documents.
